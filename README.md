@@ -1,4 +1,4 @@
-# 🔖 Bookmarklet
+# 🔖 Bookmarklets
 My Javascript code for a bookmarklet that can proxy and load youtube
 Open an about:blank tab and then copy the code into a folders page by doing this:
 
@@ -10,5 +10,8 @@ The youtube is also updated and shows recent videos.
 
 
 https://github.com/user-attachments/assets/28c9a9b1-4348-4fa8-8101-27fb72224d66
+
+
+Bookmarklet.js works on any website, and follow the directions on the popups.
 
 
