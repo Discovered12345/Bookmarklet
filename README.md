@@ -1,4 +1,4 @@
-#🔖 Bookmarklet
+# 🔖 Bookmarklet
 My Javascript code for a bookmarklet that can proxy and load youtube
 Open an about:blank tab and then copy the code into a folders page by doing this:
 
